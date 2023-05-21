@@ -8,3 +8,5 @@ name = "site"
 
 # This page should be the root of your website. It's important.
 page = "https://seen-pearl-955.notion.site/Riccardo-Cipolleschi-dd5f05d1d89f46dab930dc6462dcee50"
+
+theme = "dark"
