@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "site"
+name = "Riccardo's Website"
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = "https://seen-pearl-955.notion.site/Riccardo-Cipolleschi-dd5f05d1d89f46dab930dc6462dcee50"
